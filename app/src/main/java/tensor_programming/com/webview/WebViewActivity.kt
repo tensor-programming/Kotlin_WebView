@@ -19,9 +19,6 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import kotlinx.android.synthetic.main.activity_web_view.*
 
-/**
- * Created by jking on 2/1/2018.
- */
 class WebViewActivity : AppCompatActivity(){
 
     private val URL = "https://steemit.com"
